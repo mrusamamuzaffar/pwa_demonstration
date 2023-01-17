@@ -1,16 +1,11 @@
-# pwa_demonstration
+# pwa web app - Flutter
 
-A new Flutter project.
+A PWA web application built in Flutter. A web as well as we can install in any platform android, iOS. by using PWA application, a web application can utilize the native features of any specific platform. inshort A web behave as an android, iOS application. We can install it on our devices and can use offline.
 
-## Getting Started
+## GIF
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width=40%
+  height=40%
+  src="https://user-images.githubusercontent.com/101565812/212886173-bc7f53b1-5400-4d63-aadf-dfd1016969c5.gif">
+</p>
