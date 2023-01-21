@@ -2,6 +2,11 @@
 
 A PWA web application built in Flutter. A web as well as we can install in any platform android, iOS. by using PWA application, a web application can utilize the native features of any specific platform. inshort A web behave as an android, iOS application. We can install it on our devices and can use offline.
 
+✔️ Sound NullSafety
+
+## Architechture
+✔️ Clean Architechture <br />
+
 ## GIF
 
 <p align="center">
